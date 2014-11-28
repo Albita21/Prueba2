@@ -6,14 +6,13 @@
 Esto es una prueba para probar el **cliente de GitHub**
 
 
-*bla 
-*bla
-*blabla
+* bla 
+* bla
+* blabla
 
 1. bla
 2. blablabla
 3. blabla
-4. 
 ``` csharp
 public class bla
 {
