@@ -1,7 +1,7 @@
 *Prueba2*
 =======
 
-### Frase en Negrita
+### Frase en letras grandes
 
 Esto es una prueba para probar el **cliente de GitHub**
 
